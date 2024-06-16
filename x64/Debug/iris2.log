@@ -1,0 +1,13 @@
+﻿  Kmeans.cpp
+  原版鸢尾花.cpp
+D:\有kmeans++的改进\原版鸢尾花.cpp(133,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\有kmeans++的改进\原版鸢尾花.cpp(197,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\有kmeans++的改进\原版鸢尾花.cpp(231,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\有kmeans++的改进\原版鸢尾花.cpp(291,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\有kmeans++的改进\原版鸢尾花.cpp(360,16): warning C4101: “k”: 未引用的局部变量
+D:\有kmeans++的改进\原版鸢尾花.cpp(357,17): warning C4101: “a2”: 未引用的局部变量
+D:\有kmeans++的改进\原版鸢尾花.cpp(360,19): warning C4101: “j”: 未引用的局部变量
+D:\有kmeans++的改进\原版鸢尾花.cpp(360,13): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+D:\有kmeans++的改进\原版鸢尾花.cpp(32): warning C4715: “get_truthvalue”: 不是所有的控件路径都返回值
+  iris2.vcxproj -> D:\有kmeans++的改进\x64\Debug\iris2.exe
